@@ -8,7 +8,7 @@ Thanks for stopping by!
 
 ## 👯 Collaboration
 
-If you'd like to team up, please get in touch!
+If you'd like to team up, please [`git` in `touch`](https://johnfraney.ca/contact/)! (I couldn't help myself.)
 
 I'm available for:
 
