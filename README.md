@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hello, there! 👋
 
-<!--
-**johnfraney/johnfraney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm John and I like to code for fun and to generate some numbers to look at, like website visits, package downloads, and GitHub stars.
 
-Here are some ideas to get you started:
+I maintain a couple open-source projects and some free-as-in-beer websites, too.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thanks for stopping by!
+
+## 👯 Collaboration
+
+If you'd like to team up, please get in touch!
+
+I'm available for:
+
+- Contract work
+- Open-source contributions
+- Full-time employment for an interesting company doing interesting work
+
+## 🔭 Current projects
+
+| Site              | Description                                                                        | Link                                                                  |
+| ----------------- | ---------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| Blurry            | A static site generator with excellent page speed and SEO                          | [github.com/blurry-dev/blurry](https://github.com/blurry-dev/blurry/) |
+| Table to Markdown | Generates well-formatted Markdown tables from spreadsheet cells and website tables | [tabletomarkdown.com](https://tabletomarkdown.com/)                   |
+| Pyrfecter         | An in-browser Python linter, formatter, and modernizer                             | [pyrfecter.com](https://pyrfecter.com/)                               |
+| Decaf Digest      | A decaf tea review site                                                            | [decafdigest.com](https://decafdigest.com/)                           |
