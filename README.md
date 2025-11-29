@@ -24,3 +24,4 @@ I'm available for:
 | Table to Markdown | Generates well-formatted Markdown tables from spreadsheet cells and website tables | [tabletomarkdown.com](https://tabletomarkdown.com/)                   |
 | Pyrfecter         | An in-browser Python linter, formatter, and modernizer                             | [pyrfecter.com](https://pyrfecter.com/)                               |
 | Decaf Digest      | A decaf tea review site                                                            | [decafdigest.com](https://decafdigest.com/)                           |
+| Sonic Damage      | A voice-activated soundboard for TTRPGs                                            | [sonicdamage.com](https://sonicdamage.com/)                           |
